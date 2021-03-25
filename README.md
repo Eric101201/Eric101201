@@ -5,4 +5,4 @@
 ---
 [![Shibainu's github stats](https://github-readme-stats.vercel.app/api?username=Eric101201&count_private=true&show_icons=true&theme=cobalt&include_all_commits=true)](https://github.com/Eric101201)
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eric101201&theme=cobalt&hide_border=true)](https://github.com/Eric101201)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eric101201&theme=cobalt)](https://github.com/Eric101201)
