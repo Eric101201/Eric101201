@@ -9,7 +9,7 @@
 [![](https://raw.githubusercontent.com/Eric101201/github-profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/Eric101201) .[![](https://raw.githubusercontent.com/Eric101201/github-profile-summary-cards/master/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/Eric101201/My-discord-bot)
 [![](https://raw.githubusercontent.com/Eric101201/github-profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/Eric101201) .[![](https://raw.githubusercontent.com/Eric101201/github-profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/Eric101201)
 ---
-[![My Discord Bot](https://github-readme-stats-two-smoky.vercel.app/api/pin/?username=Eric101201&repo=My-discord-bot&theme=nord)](https://github.com/Eric101201/My-discord-bot) [![discord-protection](https://github-readme-stats-two-smoky.vercel.app/api/pin/?username=Eric101201&repo=discord-protection&theme=nord)](https://github.com/Eric101201/discord-protection)
+[![My Discord Bot](https://github-readme-stats-two-smoky.vercel.app/api/pin/?username=Eric101201&repo=My-discord-bot&theme=nord)](https://github.com/Eric101201/My-discord-bot)
 
 ---
 ## Used Website
