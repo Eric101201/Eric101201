@@ -1,6 +1,6 @@
 # About-Me | 關於我
 - **HI! I am Eric | 嗨! 我是 Eric**
-- **Discord : `ǝɹıɔ#0001`**
+- **Discord : [`ǝɹıɔ#0001`](https://discordapp.com/users/593666614717841419)**
 
 [![Github top language](https://img.shields.io/github/languages/top/Eric101201/dc-bot?style=for-the-badge)](https://github.com/Eric101201/My-discord-bot)
 ---
