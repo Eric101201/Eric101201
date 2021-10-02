@@ -2,6 +2,7 @@
 - **HI! I am Eric | 嗨! 我是 Eric**
 - **Discord : [`ǝɹıɔ#0001`](https://discordapp.com/users/593666614717841419)**
 - **Blog : [My Blog](https://eric-wu.tk)**
+- **Email to eric@eric-wu.tk !**
 
 [![Github top language](https://img.shields.io/github/languages/top/Eric101201/dc-bot?style=for-the-badge)](https://github.com/Eric101201/My-discord-bot)
 ---
