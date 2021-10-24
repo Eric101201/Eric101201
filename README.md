@@ -1,6 +1,6 @@
 # About-Me | 關於我
 - **HI! I am Eric | 嗨! 我是 Eric**
-- **Discord : [`ǝɹıɔ#0001`](https://discordapp.com/users/593666614717841419)**
+- **Discord : [`eric.#8781`](https://discordapp.com/users/593666614717841419)**
 - **Blog : [My Blog](https://eric-wu.tk)**
 - **Email to eric@eric-wu.tk !**
 
