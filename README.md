@@ -1,8 +1,8 @@
 # About-Me | 關於我
 - **HI! I am Eric | 嗨! 我是 Eric**
 - **Discord : [`eric.#8781`](https://discordapp.com/users/593666614717841419)**
-- **Blog : [My Blog](https://eric-wu.tk)**
-- **Email to eric@eric-wu.tk !**
+- **Blog : [My Blog](https://www.eric-wu.xyz)**
+- **Email to [eric@eric-wu.xyz](mailto:eric@eric-wu.xyz) !**
 
 [![Github top language](https://img.shields.io/github/languages/top/Eric101201/dc-bot?style=for-the-badge)](https://github.com/Eric101201/My-discord-bot)
 ---
